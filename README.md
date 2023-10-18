@@ -1,3 +1,3 @@
 # Arduino
-Проекты Arduino
-Дли Arduino IDE и для VSCode PlatformIO
+Проекты Arduino 
+(Arduino IDE) (VSCode PlatformIO)
