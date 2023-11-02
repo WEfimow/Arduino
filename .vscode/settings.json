@@ -1,3 +1,4 @@
 {
-    "cmake.configureOnOpen": true
+    "cmake.configureOnOpen": true,
+    "cmake.sourceDirectory": "D:/Repositary/Arduino/Arduino/libraries/Adafruit_BusIO"
 }
