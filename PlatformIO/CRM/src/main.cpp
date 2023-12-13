@@ -1,6 +1,6 @@
 //Example CRMui3  /  Пример CRMui3
 #include "AsincTCP"
-#include "CRMui3.h"
+#include "scr\CRMui3.h"
 #include <Ticker.h> // Входит в состав ядра
 
 // Объявление объектов
