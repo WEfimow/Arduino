@@ -1,5 +1,5 @@
 //Example CRMui3  /  Пример CRMui3
-#include "AsincTCP"
+#include "AsyncTCP.h"
 #include "CRMui3.h"
 #include <Ticker.h> // Входит в состав ядра
 

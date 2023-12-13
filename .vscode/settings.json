@@ -1,5 +1,5 @@
 {
     "cmake.configureOnOpen": true,
-    "cmake.sourceDirectory": "D:/Repositary/Arduino/Arduino/libraries/Adafruit_BusIO",
+    "cmake.sourceDirectory": "D:/Repository/Arduino/Arduino/libraries/Adafruit_BusIO",
     "C_Cpp.errorSquiggles": "enabled"
 }
